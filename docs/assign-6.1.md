@@ -2,11 +2,11 @@
 >Make sure the subject matter, target learners, and target environment are clear.
 
 #### Subject matter
-Facilitate ESL learners' learning process for learning advanced English vocabularies.
+Facilitate the learning process of ESL learners for advanced English vocabularies.
 
 For example, the advanced vocabularies could be `nonchalant`, `restive`, `mendacious`, etc.
 
-Although it's easy to memorize any one of them with rote learning, these vocabularies rarely appear in daily speech and hence they are difficult to realize and memorize their meaning.
+Although it's easy to memorize any one of them with rote learning, these vocabularies rarely appear in daily speech and hence they are difficult to realize and memorize.
 
 #### Target audience
 The target audience is aimed at 15 yr+ or adults. They have basic English knowledge and want to extend their vocabularies. 
@@ -57,10 +57,18 @@ After I improved the overall graphic design, the game becomes much more interest
 Many issues are not addressed yet, and some of them might need a huge change on the current design. To afford these huge changes, as a independant game developer, I have to not only speed up the development process, but also try not to make wrong decisions as possible as I could.
 
 ### Course
-What parts of the course were the most helpful? Why? Did you find certain course materials to be especially useful? If so, tell us about it.
+> What parts of the course were the most helpful? Why? Did you find certain course materials to be especially useful? If so, tell us about it.
+
+- Design-based research (DBR)
+After I put my game into the real tests, I totally agree with this design concept. During a game design, a feedback from the real world is often unexpected but essential. 
+
+- The New Art of Gaming (Presented at Sandbox Summit, 2012) by Prof. Eric Zimmerman
+This talk inspired me a lot. The most impressive concept is that he pointed out game is a kind of media form, like movie, art and music. We could, but not limited to, put it into instructional uses as any other kinds of media. Game can be a powerful tool to embed a fact, a concept, an experiece to transmit to people.
 
 ### Peer feedback
 > What about peer feedback? How did your experiences in the 11.127x learning community help shape your project?
+
+Peer feedback provides many chances for us to share insights to each other.
 
 ### Playtest
 > Do you have additional insights from your playtesting sessions?
