@@ -31,7 +31,7 @@ On the contrary, in this game, players can learn those words from the conversati
 ### Development
 > What was hard? What was easy?
 
-I felt these 3 parts are the most challenging during the process of development:
+I felt these 4 parts are the most challenging during the process of development:
 
 1. Engineering
 The game engine I choose is cocos2d-js, an open source cross-platform 2D game framework. Because the framework, especially v3.x, is still under heavy development by community, most documentation is premature and some bugs appear unexpectedly. In these cases, I had to dig into their source code to know how an API works and how to tweak the code to make the game work.
