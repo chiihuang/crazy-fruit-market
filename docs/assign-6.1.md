@@ -66,7 +66,9 @@ After I put my game into the real tests, I totally agree with this design concep
 This talk inspired me a lot. The most impressive concept is that he pointed out game is a kind of media form, like movie, art and music. We could, but not limited to, put it into instructional uses as any other kinds of media. Game can be a powerful tool to embed a fact, a concept, an experiece to transmit to people.
 
 ### Peer feedback
+
 > What about peer feedback? How did your experiences in the 11.127x learning community help shape your project? Do you have additional insights from your playtesting sessions?
+
 Peer feedback encourages us to see other participants' works and leave comments to help them improve. Thanks to this, we have a chance to see how those impressive works evolve and how the comments from peers help to shape their works.
 
 Unfortunately, since I was a weeks behind the course after Unit 4, most of the feedback came from my Facebook friends and from Unhangout. However, I still have chances to help other participants improve their projects and this experiences is joyful.
