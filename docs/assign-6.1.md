@@ -1,5 +1,18 @@
-
+### Description
 >Make sure the subject matter, target learners, and target environment are clear.
+
+#### Subject matter
+Facilitate the learning process for advanced English vocabularies.
+
+For example, the advanced vocabularies could be `nonchalant`, `restive`, `mendacious`, etc.
+
+Although it's easy to memorize any one of them with rote learning, these vocabularies rarely appear in daily speech and hence they are difficult to realize and memorize their meaning.
+
+#### Target audience
+The target audience is aimed at 15 yr+ or adults. They have basic English knowledge and want to extend their vocabularies. 
+
+#### Target environment
+On Smartphone, PC or anywhere accessible to the internet. The goal is to keep game itself simple and fun. Therefore, at current stage, I do not take 3D graphics into consideration. I decide to develop this game on cocos2d because it is a cross-platform game engine.
 
 >Make sure your instructional goals are clear, and explain why you believe your game is an appropriate fit for them.
 
