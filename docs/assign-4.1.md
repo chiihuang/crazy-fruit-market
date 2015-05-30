@@ -65,13 +65,18 @@ Yes, but not limited to these methods I've tried. I will put more effort to get 
 
 > An overview of how you iterated your game based on feedback and observations
 
-As they pointed out, without telling players why they are wrong, my game could become another **spelling bee** tragedy.
+#### Beginning
 
-In the beginning, I got some feedbacks on the forum and from course intructors and TAs. Thanks to their advices, I found players cannot get enough feedback to know why they are wrong and how to get the correct answers. So I implemented the following features:
+In the beginning, I got some feedbacks on the forum and from course intructors and TAs. They found players cannot get enough feedback to know why they are wrong and how to get the correct answers. In this case, the game could become another **spelling bee** tragedy. Thanks to their advices, I started to implement the following features:
 
-1. Dictionary - In easy mode, a player can lookup the dictionary if they are new to the given vocabulary.
-2. 3 difficulties - There are 3 different difficulties - easy, normal and hard. In easy mode, a player could lookup the dictionary. In normal mode, the player is supposed to know the vocabularies, so the dictionary is taken away. In hard mode, the player is supposed to deeply understand all the vocabuleries, so the faces of the apples are hidden.
-3. Reveal the name of apple in the checkout counter - To tell the player why the answer is wrong, I started with the this basic function -- reveal the name of the apple directly.
+1. Dictionary - a player can lookup the dictionary if they are new to the given vocabulary.
+2. 3 difficulties - easy, normal and hard.
+> 1. In `easy`, a player could lookup the dictionary.
+> 2. In `normal`, the player is supposed to know the vocabularies, so the dictionary is taken away.
+> 3. In `hard`, the player is supposed to deeply understand all the vocabuleries, so the faces of the apples are hidden.
+3. Reveal the name of apple in the checkout counter - to tell the player why the answer is wrong, the game reveals the name of wrong apple in the end.
+
+#### Second release
 
 After I implemented these features as well as other improvement on the graphics, I shared my game on Facebook with my friends. This time, I got several feedback:
 
@@ -86,6 +91,8 @@ Even if they mastered the game, them still don't know how to use those words in 
 
 4. Unknown bugs
 The bugs only reported by a few users. This may come from different browsers.
+
+#### Unhangout
 
 Before I started to address these issues one by one, in the Unhangout event, I discussed the known issues with the participants and they provided some great points as follow:
 
