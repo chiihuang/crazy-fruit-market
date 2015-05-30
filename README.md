@@ -5,9 +5,13 @@ The purpose of this game is to facilitate learning new difficult* words through 
 
 This project started for the course: [MITx: 11.127x Design and Development of Games for Learning](https://www.edx.org/course/design-development-games-learning-mitx-11-127x)
 
-Game link: http://goo.gl/FhV5Vk
-Game Survey link: https://goo.gl/forms/SJC2N0RpiM
-Game Survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
+- Game link: http://goo.gl/FhV5Vk
+- Game Survey link: https://goo.gl/forms/SJC2N0RpiM
+- Game Survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
+
+## Documentation
+
+- [Assignment 4.1]: ./docs/assign-4.1.md
 
 ## Attribution
 - Background image: the original uploader was Steven chow at English Wikipedia. [GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons
