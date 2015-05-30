@@ -1,7 +1,7 @@
 # Crazy Fruit Market
 
 Crazy Fruit Market is a English vocabulary learning game prototype.
-The purpose of this game is to facilitate learning new difficult* words through funs in the game. Enjoy the game!
+The purpose of this game is to facilitate learning new *difficult* words through funs in the game. Enjoy the game!
 
 This project started for the course: [MITx: 11.127x Design and Development of Games for Learning](https://www.edx.org/course/design-development-games-learning-mitx-11-127x)
 
