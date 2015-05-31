@@ -14,6 +14,8 @@ The target audience is aimed at 15 yr+ or adults. They have basic English knowle
 #### Target environment
 On Smartphone, PC or anywhere accessible to the internet. The goal is to keep game itself simple and fun. Therefore, at current stage, I do not take 3D graphics into consideration. I decide to develop this game on cocos2d because it is a cross-platform game engine.
 
+#### Game Video
+Game Demo Video on Youtube: http://youtu.be/w4K_eHHLQUM
 
 ## Why Crazy Fruit Market?
 

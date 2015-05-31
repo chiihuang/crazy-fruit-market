@@ -6,8 +6,9 @@ The purpose of this game is to facilitate learning new *difficult* words through
 This project started for the course: [MITx: 11.127x Design and Development of Games for Learning](https://www.edx.org/course/design-development-games-learning-mitx-11-127x)
 
 - Game link: http://goo.gl/FhV5Vk
-- Game Survey link: https://goo.gl/forms/SJC2N0RpiM
-- Game Survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
+- Game demo video: http://youtu.be/w4K_eHHLQUM
+- Game survey link: https://goo.gl/forms/SJC2N0RpiM
+- Game survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
 
 ## Documentation
 
