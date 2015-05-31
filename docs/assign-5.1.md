@@ -31,7 +31,7 @@ The game can provide one profile for each of the vocabularies, and each vocabula
 3. When does the game suggest to test the gamer the vocabulary again
 
 ### Real-time feedback
-> How can you give the right just-in-time feedback to learners or their guides?
+> How can you give the right just-in-time feedback to learners or their guides? In order to answer that question, really consider what your game is asking people to do, and whether you could say anything about their learning based on how they engage with the game.
 
 When a player picks a context for a vocabulary, a just-in-time feedback during the game could include why the chosen context does not match the vocabulary and instead what kind of the context should match the vocabulary.
 
@@ -42,7 +42,10 @@ For example, given a vocabulary `happy`, if the context chosen by a player is an
 
 More aggresively, the game can help us collecting data to find out that, for a given word, what kind of the contents most players tends to be confused and wrongly match them to the word. This analysis can not only provide a player how to avoid these confusions, but also provide the game developer whether there is any ill-design context could be improved in the game.
 
-> In order to answer that question, really consider what your game is asking people to do, and whether you could say anything about their learning based on how they engage with the game.
+### Reference
 
 > Explain to the course staff and students (in any format you wish) how you will help learners and teachers understand accomplishments/progress in the game.
 
+Some of my idea come from [Anki], a flashcard program provides righ statistics to help learners understanding their learning progress.
+
+[Anki]: http://ankisrs.net/
