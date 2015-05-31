@@ -66,9 +66,11 @@ Many issues are not addressed yet, and some of them might need a huge change on 
 > What parts of the course were the most helpful? Why? Did you find certain course materials to be especially useful? If so, tell us about it.
 
 - Design-based research (DBR)
+
 After I put my game into the real tests, I totally agree with this design concept. During a game design, a feedback from the real world is often unexpected but essential. 
 
 - The New Art of Gaming (Presented at Sandbox Summit, 2012) by Prof. Eric Zimmerman
+
 I was so inspired by this talk especially by the concept that game is a kind of media form, like movie, art and music. We could, but not limited to, put it into instructional uses as any other kinds of media, and more importantly game is a powerful tool to transmit a fact, a concept, or even an experiece to people.
 
 ### Peer feedback
