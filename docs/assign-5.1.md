@@ -12,10 +12,23 @@ This game has 2 major learning objectives -- *comprehension* and *memorization*.
 
 About this, the comprehension of a word can be measured by counting how many tries does a player use to find out the correct mapping of the context to the given vocabulary.
 
-If a player takes only 1 try to figure it out, this indicates that the player understands the vocabulary.
+If a player takes only 1 try to figure it out, this indicates that the player `understands` the vocabulary. If not, it shows that the player `forgets` or `doesn't understand` the vocabulary.
 
 ### Memorization
 
+This game should provide both general and specific statistics to show the learning curve of the words a player learns.
+
+#### General statistics
+
+It could be a timeline showing that, for each day, how many vocabularies are `understanded` and how many are `not understanded`.
+
+#### Specific statistics
+
+The game can provide one profile for each of the vocabularies, and each vocabulary profile should includes these metrics:
+
+1. What's the last time a player answers it correctly
+2. What's the longest interval a player keeps answer it correctly
+3. When does the game suggest to test the gamer the vocabulary again
 
 ### Real-time feedback
 > How can you give the right just-in-time feedback to learners or their guides?
