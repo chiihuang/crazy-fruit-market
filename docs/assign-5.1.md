@@ -17,8 +17,15 @@ If a player takes only 1 try to figure it out, this indicates that the player un
 ### Memorization
 
 
-
+### Real-time feedback
 > How can you give the right just-in-time feedback to learners or their guides?
+
+When a player picks a context for a vocabulary, a just-in-time feedback during the game could include why the chosen context does not match the vocabulary and instead what kind of the context should match the vocabulary.
+
+For example, given a vocabulary `happy`, if the context chosen by a player is an unhappy conversation, a feedback will include:
+
+- The chosen context contains such unhappy elements and therefore the words fitting this context well might be `unhappy`, `sad`, `unsatisfying`.
+- But for `happy`, a player should find the context that is showing pleasure, contentment or satisfaction.
 
 > In order to answer that question, really consider what your game is asking people to do, and whether you could say anything about their learning based on how they engage with the game.
 
