@@ -40,6 +40,8 @@ For example, given a vocabulary `happy`, if the context chosen by a player is an
 - The chosen context contains such unhappy elements and therefore the words fitting this context well might be `unhappy`, `sad`, `unsatisfying`.
 - But for `happy`, a player should find the context that is showing pleasure, contentment or satisfaction.
 
+More aggresively, the game can help us collecting data to find out that, for a given word, what kind of the contents most players tends to be confused and wrongly match them to the word. This analysis can not only provide a player how to avoid these confusions, but also provide the game developer whether there is any ill-design context could be improved in the game.
+
 > In order to answer that question, really consider what your game is asking people to do, and whether you could say anything about their learning based on how they engage with the game.
 
 > Explain to the course staff and students (in any format you wish) how you will help learners and teachers understand accomplishments/progress in the game.
