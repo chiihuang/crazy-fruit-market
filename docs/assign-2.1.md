@@ -1,4 +1,4 @@
-(The idea inherits some part of my work in unit 1. Please take a look here: [assignment link](./docs/assign-1.2.pdf))
+(The idea inherits some part of my work in unit 1. Please take a look here: [assignment link](./assign-1.2.pdf))
 
 ### Introduction (topic):
 In this game, your avatar is a kid with limited vocabularies. One day, your parents tell you to buy some items from a certain vendor on the street. Now, your job is to understand where to find the specified vendor and buy correct items back to home.
