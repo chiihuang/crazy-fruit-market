@@ -14,8 +14,9 @@ This project started for the course: [MITx: 11.127x Design and Development of Ga
 
 - [Assignment 1.2: Draft Curriculum](./docs/assign-1.2.pdf)
 - [Assignment 2.1: Pitch Your Learning Game](./docs/assign-2.1.md)
-- [Activity Break 3: How Do You Prototype It?](./docs/activity-3.pdf)
+- [Activity Break: How Do You Prototype It?](./docs/activity-3.pdf)
 - [Assignment 3.1: Design & Prototype Your Game](./docs/assign-3.1.pdf)
+- [Activity Break: Questions for Playtesting!](./docs/activity-4.md)
 - [Assignment 4.1: Playtest & Iterate](./docs/assign-4.1.md)
 - [Assignment 5.1: Integration & Assessment](./docs/assign-5.1.md)
 - [Assignment 6.1: Finish Your Project](./docs/assign-6.1.md)
