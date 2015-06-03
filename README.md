@@ -12,13 +12,13 @@ This project started for the course: [MITx: 11.127x Design and Development of Ga
 
 ## Documentation
 
-- [Assignment 1.2](./docs/assign-1.2.pdf)
-- [Assignment 2.1](./docs/assign-2.1.md)
-- [Activity Break 3](./docs/activity-3.pdf)
-- [Assignment 3.1](./docs/assign-3.1.pdf)
-- [Assignment 4.1](./docs/assign-4.1.md)
-- [Assignment 5.1](./docs/assign-5.1.md)
-- [Assignment 6.1](./docs/assign-6.1.md)
+- [Assignment 1.2: Draft Curriculum](./docs/assign-1.2.pdf)
+- [Assignment 2.1: Pitch Your Learning Game](./docs/assign-2.1.md)
+- [Activity Break 3: How Do You Prototype It?](./docs/activity-3.pdf)
+- [Assignment 3.1: Design & Prototype Your Game](./docs/assign-3.1.pdf)
+- [Assignment 4.1: Playtest & Iterate](./docs/assign-4.1.md)
+- [Assignment 5.1: Integration & Assessment](./docs/assign-5.1.md)
+- [Assignment 6.1: Finish Your Project](./docs/assign-6.1.md)
 
 ## Attribution
 - Background image: the original uploader was Steven chow at English Wikipedia. [GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons
