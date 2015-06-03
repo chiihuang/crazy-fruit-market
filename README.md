@@ -25,6 +25,10 @@ Please refer to [INSTALL.md](./INSTALL.md)
 - [Assignment 5.1: Integration & Assessment](./docs/assign-5.1.md)
 - [Assignment 6.1: Finish Your Project](./docs/assign-6.1.md)
 
+## Graphic Design
+
+GIMP native image file: [cfm.xcf](./gimp/cfm.xcf)
+
 ## Attribution
 - Background image: the original uploader was Steven chow at English Wikipedia. [GFDL](http://www.gnu.org/copyleft/fdl.html) or [CC-BY-SA-3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons
 - Owl Cook: adopted from [pixabay](http://pixabay.com/en/owl-animal-bird-cook-cooking-159402/), uploaded by [OpenClips](http://pixabay.com/en/users/OpenClips-30363/)
