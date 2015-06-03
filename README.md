@@ -10,6 +10,10 @@ This project started for the course: [MITx: 11.127x Design and Development of Ga
 - Game survey link: https://goo.gl/forms/SJC2N0RpiM
 - Game survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
 
+## Installation
+
+Please refer to [INSTALL.md](./INSTALL.md)
+
 ## Documentation
 
 - [Assignment 1.2: Draft Curriculum](./docs/assign-1.2.pdf)
