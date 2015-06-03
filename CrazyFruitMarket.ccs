@@ -1,0 +1,89 @@
+<Solution>
+  <PropertyGroup Name="CrazyFruitMarket" Version="2.2.8.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="StartScene">
+          <Image Name="background.png" />
+          <Image Name="easy-button-down.png" />
+          <Image Name="easy-button-hover.png" />
+          <Image Name="easy-button-normal.png" />
+          <Image Name="hard-button-down.png" />
+          <Image Name="hard-button-hover.png" />
+          <Image Name="hard-button-normal.png" />
+          <Image Name="normal-button-down.png" />
+          <Image Name="normal-button-hover.png" />
+          <Image Name="normal-button-normal.png" />
+          <Image Name="title.png" />
+        </Folder>
+        <Project Name="StartScene.csd" Type="Scene" />
+        <Project Name="BackgroundLayer.csd" Type="Layer" />
+        <Project Name="StartLayer.csd" Type="Layer" />
+        <Project Name="TaskScene.csd" Type="Scene" />
+        <Folder Name="TaskScene">
+          <Image Name="apple.png" />
+          <Image Name="cook.png" />
+          <Image Name="go-button-down.png" />
+          <Image Name="go-button-hover.png" />
+          <Image Name="go-button-normal.png" />
+          <Image Name="hint-button-normal.png" />
+          <Image Name="material-panel.png" />
+          <Image Name="task-panel.png" />
+          <Image Name="task-question.png" />
+        </Folder>
+        <Project Name="TaskLayer.csd" Type="Layer" />
+        <Folder Name="PlayScene">
+          <Folder Name="dialog">
+            <Image Name="character-white-base.png" />
+            <Image Name="darkout-mask.png" />
+            <Image Name="dialog-panel.png" />
+          </Folder>
+          <Folder Name="fruit">
+            <Image Name="cart-panel.png" />
+            <Image Name="fruit-board.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="CounterSence">
+          <Image Name="counter-table.png" />
+          <Image Name="item-text.png" />
+          <Image Name="monitor.png" />
+        </Folder>
+        <Folder Name="CongratScene">
+          <Image Name="congra-text.png" />
+          <Image Name="title.png" />
+          <Image Name="restart-down.png" />
+          <Image Name="restart-hover.png" />
+          <Image Name="restart-normal.png" />
+        </Folder>
+        <Project Name="FruitLayer.csd" Type="Layer" />
+        <Project Name="MenuLayer.csd" Type="Layer" />
+        <Project Name="PlayScene.csd" Type="Scene" />
+        <Folder Name="MenuLayer">
+          <Image Name="back-btn.png" />
+          <Image Name="checkout-btn.png" />
+          <Image Name="menu-panel.png" />
+          <Image Name="ok-btn.png" />
+          <Image Name="task-btn.png" />
+          <Image Name="task-hint-box.png" />
+        </Folder>
+        <Project Name="DialogLayer.csd" Type="Layer" />
+        <Project Name="CounterScene.csd" Type="Scene" />
+        <Project Name="CounterLayer.csd" Type="Layer" />
+        <Project Name="CongratScene.csd" Type="Scene" />
+        <Project Name="AppleNode.csd" Type="Node" />
+        <Folder Name="Apples">
+          <Image Name="apple.png" />
+          <Image Name="mendacious-apple.png" />
+          <Image Name="non-apple.png" />
+          <Image Name="nonchalant-apple.png" />
+          <Image Name="pugnacious-apple.png" />
+          <Image Name="restive-apple.png" />
+          <Image Name="altruistic-apple.png" />
+          <Image Name="jocular-apple.png" />
+          <Image Name="leery-apple.png" />
+          <Image Name="slavish-apple.png" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

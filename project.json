@@ -1,0 +1,25 @@
+{
+    "project_type":"javascript",
+    "debugMode":1,
+    "showFPS":false,
+    "frameRate":60,
+    "id":"gameCanvas",
+    "renderMode":0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules":[
+        "cocos2d",
+        "cocostudio"
+    ],
+    "jsList":[
+        "src/resource.js",
+        "src/app.js",
+        "src/override.js",
+        "src/util.js",
+        "src/global.js",
+        "src/StartScene.js",
+        "src/TaskScene.js",
+        "src/PlayScene.js",
+        "src/CounterScene.js",
+        "src/CongratScene.js"
+    ]
+}
