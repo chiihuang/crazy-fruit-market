@@ -14,6 +14,8 @@ This project started for the course: [MITx: 11.127x Design and Development of Ga
 
 - [Assignment 1.2](./docs/assign-1.2.pdf)
 - [Assignment 2.1](./docs/assign-2.1.md)
+- [Activity Break 3](./docs/activity-3.pdf)
+- [Assignment 3.1](./docs/assign-3.1.pdf)
 - [Assignment 4.1](./docs/assign-4.1.md)
 - [Assignment 5.1](./docs/assign-5.1.md)
 - [Assignment 6.1](./docs/assign-6.1.md)
