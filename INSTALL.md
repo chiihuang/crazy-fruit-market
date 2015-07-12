@@ -1,14 +1,44 @@
 # Installation
 
-## For non-programmer
+## Dependencies
 
-`publish/html5` is a ready-to-play game file. Use browser (i.e. Chrome, IE, etc) to open `publish/html5/index.html` and here you go!
-
-## For programmer
-
-### Dependancies
-
+- cocos v2.2.8
 - cocos2d-js v3.6.1
+- ANT
+
+Note: this project doesn't strictly tied to the versions above -- they are just proved working.
+
+## Setup environment
+
+### Clone project
+
+You will need to use Git to clone this project. Please run the command as follow: 
+
+```sh
+git clone https://github.com/jasson15/crazy-fruit-market.git
+```
+
+### Cocos
+
+Cocos eases the pain when designing scenes, sprites and nodes. Without Cocos, you will have to hard code each position of the nodes, build the project and finally run it to see the results.
+
+Currently, Cocos can be runned on Mac OS X and Windows. You can download it from [here][cocos].
+
+After the installation, you can open the project by selelecting `CrazyFruitMarket.ccs`.
+
+### cocos2d-js
+
+You will need to use Cocos2d-js to build and run the project.
+
+You can try a direct download link from the official site [here][cocos2d-js 3.6.1]. If this doesn't work, there are still 2 ways to download it -- [Official site] or [GitHub repository][Cocos2d-js GitHub]. For the GitHub solution, if you need to stick to v3.6.1, please do the following:
+
+```sh
+git clone https://github.com/cocos2d/cocos2d-js.git
+cd cocos2d-js
+git checkout Cocos2d-JS-v3.6.1
+```
+
+Notice, do not donwload the lite version if you go the official site solution, because that's not what I use during the development.
 
 Once you setup cocos2d-js environment, you can also do the following:
 
@@ -19,3 +49,8 @@ Once you setup cocos2d-js environment, you can also do the following:
 ### Compile
 
 `cocos compile -p web`
+
+[cocos]: http://www.cocos2d-x.org/download
+[cocos2d-js 3.6.1]: http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip
+[Official site]: http://www.cocos2d-x.org
+[Cocos2d-js GitHub]: https://github.com/cocos2d/cocos2d-js
