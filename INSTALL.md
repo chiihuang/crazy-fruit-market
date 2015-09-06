@@ -64,9 +64,16 @@ $ cocos compile -p web -m release # build the game
 Docker eases the pain of environment setup. To build and run up the game from scratch, you could build it as following:
 
 ```sh
-$ docker build -t crazy-fruit-market .
-$ docker run -d -p 8000:8000 crazy-fruit-market
+$ docker build -t jasson15/crazy-fruit-market:latest .
+# or
+$ docker pull jasson15/crazy-fruit-market:latest
+
+# run the game at PORT 8000 ...
+$ docker run -d -p 8000:8000 jasson15/crazy-fruit-market:latest
 ```
+
+Now, you should be able to play the game on http://127.0.0.1:8000/.
+> For OSX/Windows users, please change 127.0.0.1 to DOCKER_HOST. See more details on [Docker Doc](https://docs.docker.com)
 
 [cocos]: http://www.cocos2d-x.org/download
 [cocos2d-js 3.6.1]: http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip
