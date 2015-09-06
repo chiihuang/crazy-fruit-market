@@ -10,6 +10,10 @@ This project started for the course: [MITx: 11.127x Design and Development of Ga
 - Game survey link: https://goo.gl/forms/SJC2N0RpiM
 - Game survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
 
+## Download
+
+Check out the [releases](https://github.com/jasson15/crazy-fruit-market/releases) page for the latest release.
+
 ## Installation
 
 Please refer to [INSTALL.md](./INSTALL.md)
