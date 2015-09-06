@@ -42,13 +42,21 @@ Notice, do not donwload the lite version if you go the official site solution, b
 
 Once you setup cocos2d-js environment, you can also do the following:
 
-### Testing
+### Cocos CLI
 
-`cocos run -p web`
+```sh
+$ cocos run -p web # run the game during development
+$ cocos compile -p web -m release # build the game
+```
 
-### Compile
+### Docker
 
-`cocos compile -p web`
+Docker eases the pain of environment setup. To build and run up the game from scratch, you could build it as following:
+
+```sh
+$ docker build -t crazy-fruit-market .
+$ docker run -d -p 8000:8000 crazy-fruit-market
+```
 
 [cocos]: http://www.cocos2d-x.org/download
 [cocos2d-js 3.6.1]: http://www.cocos2d-x.org/filedown/cocos2d-js-v3.6.1.zip
