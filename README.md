@@ -9,7 +9,7 @@ This project started for the course: [MITx: 11.127x Design and Development of Ga
 - Game survey link: https://goo.gl/forms/SJC2N0RpiM
 - Game survey link (Chinese): https://goo.gl/forms/NVLcKUznPh
 
-## Demo
+## Demo Video on YouTube
 
 [![Crazy Fruit Market Youtube demo video thumbnail](http://img.youtube.com/vi/w4K_eHHLQUM/sddefault.jpg)](http://www.youtube.com/watch?v=w4K_eHHLQUM)
 
